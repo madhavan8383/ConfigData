@@ -1,4 +1,9 @@
-lucky-word:
-    - Irish
-    - Serendipity
-    - Rabbit's Foot
+---
+spring:
+    profiles: east
+    lucky-word: Clover
+    
+---
+spring:
+    profiles: west
+    lucky-word: Thiru
