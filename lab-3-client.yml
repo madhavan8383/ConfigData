@@ -1,9 +1,9 @@
 ---
 spring:
     profiles: east
-    lucky-word: Clover
+lucky-word: Clover
     
 ---
 spring:
     profiles: west
-    lucky-word: Thiru
+lucky-word: Thiru
