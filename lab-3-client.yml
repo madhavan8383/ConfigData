@@ -5,5 +5,5 @@ lucky-word: Clover
     
 ---
 spring:
-    profiles: west
+    profiles: north333
 lucky-word: Thiru
